@@ -23,11 +23,10 @@ src="https://img.shields.io/github/followers/MbengeniMuano?logo=github&style=for
 src="https://img.shields.io/twitter/follow/MbengeniMuano?logo=twitter&style=for-the-badge&color=ffffff&labelColor=14532d"
 /></a>
 
-
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MbengeniMuano"><img src="https://github-readme-stats.vercel.app/api?username=MbengeniMuano&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=f97316&icon_color=ffffff&bg_color=14532d&hide_border=true&show_icons=true" alt="MbengeniMuano's GitHub stats" /></a>
+<a href="http://www.github.com/MbengeniMuano"><img src="https://github-readme-stats.vercel.app/api?username=MbengeniMuano&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=84cc16&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="MbengeniMuano's GitHub stats" /></a>
 
-<a href="http://www.github.com/MbengeniMuano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MbengeniMuano&stroke=f97316&background=14532d&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/MbengeniMuano"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MbengeniMuano&stroke=84cc16&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=84cc16&currStreakLabel=ffffff&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
-<a href="https://github.com/MbengeniMuano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbengeniMuano&langs_count=10&title_color=ffffff&text_color=f97316&icon_color=ffffff&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/MbengeniMuano" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbengeniMuano&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
