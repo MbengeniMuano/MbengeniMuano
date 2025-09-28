@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muano Mbengeni
 =======================================================================================================================================
 
-Full-Stack Developer, IT Support Specialist & software developer
+Full-Stack Developer, IT Support Specialist & Software Developer
 -----------------------------------------------------------------------------
 
 I'm Muano, a Computer Science student passionate about building inclusive, impactful technology. I specialize in software development, mobile and web applications, databases, networking, and cybersecurity, with a strong focus on agile project management and professional documentation. My work blends technical precision with strategic thinking, and I'm quick to learn new tools, committed to continuous growth, and driven by a mission to make tech accessible and empowering, especially for underserved communities.
