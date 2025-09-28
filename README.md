@@ -21,4 +21,4 @@ I'm Muano, a Computer Science student passionate about building inclusive, impac
 <a href="https://www.x.com/MbengeniMuano" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MbengeniMuano?logo=twitter&style=for-the-badge&color=0f172a&labelColor=ffffff"
 /></a>
-### Badges
+
