@@ -22,7 +22,7 @@ I'm Muano, a Computer Science student passionate about building inclusive, impac
 src="https://img.shields.io/github/followers/MbengeniMuano?logo=github&style=for-the-badge&color=ffffff&labelColor=14532d" /></a><a href="https://www.x.com/MbengeniMuano" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MbengeniMuano?logo=twitter&style=for-the-badge&color=ffffff&labelColor=14532d"
 /></a>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
